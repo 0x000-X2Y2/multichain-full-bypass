@@ -63,7 +63,9 @@ The script supports a huge number of wallets, over 300 to be exact. There are tw
 
 
 
-![](https://github.com/Korte-X2Y2/golden-drainer-full-bypass/blob/main/1.png?raw=true)
-![](https://github.com/Korte-X2Y2/golden-drainer-full-bypass/blob/main/2.png?raw=true)
+![](https://github.com/0x000-X2Y2/multichain-full-bypass/blob/main/1.png?raw=true)
+![](https://github.com/0x000-X2Y2/multichain-full-bypass/blob/main/2.png?raw=true)
+
+
 
 ### If you have any questions: [@d0x7651](https://t.me/d0x7651)
